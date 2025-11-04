@@ -97,6 +97,6 @@ Input: 62kg, 14y, 170cm → Predicted: Female (0.23)
 
 ## 🧑‍💻 Author
 
-Developed by [Your Name]  
+Developed by Liam 
 For educational and demonstration purposes.  
 Licensed under the MIT License.
